@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Christian Bell's Developer Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Christian Bell`,
+      summary: `based in Philadelphia.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Christian Bell's Developer Blog`,
+    siteUrl: `https://`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: 'christian-dibala-bell/'
     },
   },
   plugins: [
